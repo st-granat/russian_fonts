@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = RussianFonts::VERSION
   spec.authors       = ["Andrey"]
   spec.email         = ["railscode@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = "Russian Fonts for Rails Apps"
+  spec.summary       = "Russian Fonts for Rails Apps"
+  spec.homepage      = "https://github.com/st-granat/russian_fonts"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
